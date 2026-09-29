@@ -5,6 +5,8 @@
 I’m a Backend Developer focused on building reliable, maintainable, and well-structured backend applications and RESTful APIs.
 
 ---
+ERP System — Private Repository
+A modular ERP system built with Node.js, TypeScript, and Clean Architecture. The project is under active development, and its source code is private.
 
 ## 🛠️ Tech Stack
 
