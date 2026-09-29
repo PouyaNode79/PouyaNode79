@@ -1,26 +1,14 @@
-<!--
-**PouyaNode79/PouyaNode79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi, I'm Pouya 👋
+# Hi, I'm MR.Node 👋
 
 ### Backend Developer
 
-I’m a Backend Developer focused on building reliable and maintainable server-side applications and RESTful APIs.
+I’m a Backend Developer focused on building reliable, maintainable, and well-structured backend applications and RESTful APIs.
 
-### 🛠️ Tech Stack
+---
 
-**Backend**
+## 🛠️ Tech Stack
+
+### Backend
 
 * Node.js
 * TypeScript
@@ -28,7 +16,7 @@ I’m a Backend Developer focused on building reliable and maintainable server-s
 * RESTful APIs
 * JWT
 
-**Databases**
+### Databases
 
 * PostgreSQL
 * MySQL
@@ -36,29 +24,51 @@ I’m a Backend Developer focused on building reliable and maintainable server-s
 * Mongoose
 * Sequelize
 
-**Tools & Environment**
+### Tools & Environment
 
 * Git
 * Postman
 * Linux
 * Unit Testing
 
-**Other**
+### Other
 
 * Python
 
-### 🚀 Current Focus
+---
+
+## 🎯 Current Focus
 
 * Backend architecture and application design
-* Building scalable RESTful APIs
+* RESTful API development
 * Database design and optimization
-* Clean and maintainable code
-* Developing real-world backend systems
+* Writing clean and maintainable code
+* Authentication and authorization
+* Building real-world backend systems
 
-### 📌 Featured Projects
+---
 
-Projects and technical work will be added here as they are developed and documented.
+## 🚀 Projects
 
-### 📫 Contact
+I’m currently working on real-world backend projects and building my experience through practical software development.
+
+More projects and technical documentation will be added here as they become ready for public release.
+
+---
+
+## 📚 Learning & Development
+
+Continuously improving my knowledge of:
+
+* Backend Architecture
+* Software Design
+* Database Systems
+* Linux & Server Configuration
+* Testing
+* Docker and Deployment
+
+---
+
+## 📫 Contact
 
 More contact information will be added soon.
